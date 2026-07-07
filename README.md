@@ -2,7 +2,6 @@
 
 A real-time gun detection system using OpenCV and Haar Cascade classifiers for security monitoring applications.
 
-
 ## Features
 
 - Real-time gun detection from webcam feed
